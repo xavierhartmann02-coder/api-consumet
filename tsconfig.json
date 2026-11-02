@@ -12,7 +12,8 @@
     "strict": false,
     "noImplicitAny": false,
     "strictNullChecks": false,
-    "skipLibCheck": true
+    "skipLibCheck": true,
+    "noEmitOnError": false
   },
   "include": [
     "src/**/*.ts"
